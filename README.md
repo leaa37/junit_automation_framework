@@ -25,10 +25,10 @@ JUnit Automation Project Repository
 
 # Test cases availables:
 
-1. Search 'heladera'
-2. Search 'monitor'
-3. Search 'smart tv'
-4. Validate 'Lagunitas Brewing Co' brewerie data
+1. [WEB] Search 'heladera'
+2. [WEB] Search 'monitor'
+3. [WEB] Search 'smart tv'
+4. [API] Validate 'Lagunitas Brewing Co' brewerie data
 
 # How to run tests
 Run from bash: mvn clean test
