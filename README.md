@@ -25,9 +25,9 @@ JUnit Automation Project Repository
 
 # Test cases availables:
 
-1. [WEB] Search 'heladera'
-2. [WEB] Search 'monitor'
-3. [WEB] Search 'smart tv'
+1. [WEB] Search 'heladera' brand 'Peabody' with subcategory 'heladeras'
+2. [WEB] Search 'monitor' brand 'HP' without subcategory 
+3. [WEB] Search 'smart tv' brand 'Samsung' with subcategory 'TV'
 4. [API] Validate 'Lagunitas Brewing Co' brewerie data
 
 # How to run tests
