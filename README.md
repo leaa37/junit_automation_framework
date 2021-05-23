@@ -1,4 +1,4 @@
-# junit_automation
+# junit_automation_framework
 JUnit Automation Project Repository
 
 # Project Structure
